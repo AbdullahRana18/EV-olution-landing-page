@@ -1,12 +1,59 @@
-# React + Vite
+# 🌍 EV-olution - React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EV-olution is a modern and responsive **React-based landing page** with dynamic video and image backgrounds, smooth animations, and an interactive hero section.  
+Built with clean UI, responsive layout, and engaging visuals to showcase products or features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+🎥 **Dynamic Background**  
+- Video background with play/pause control  
+- Auto-sliding image backgrounds  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ **Hero Section**  
+- Animated text transitions  
+- Explore button with icon  
+- Carousel dots for switching slides  
+
+🎨 **UI / UX**  
+- Responsive design with modern CSS  
+- Smooth fade-in animations  
+- Minimalistic and elegant layout  
+
+📦 **Technologies Used**  
+- React 18  
+- JavaScript (ES6+)  
+- CSS3 (Flexbox, Animations)  
+- Vite (for development/build)  
+
+---
+
+## ⚙️ Installation & Setup
+
+1️⃣ Clone the Repository  
+git clone https://github.com/YourUsername/EV-olution.git
+cd EV-olution
+
+2️⃣ Install Dependencies
+npm install
+
+3️⃣ Run the Project
+npm run dev
+
+4️⃣ Open in Browser
+Visit: http://localhost:5173/
+
+📂 Project Structure
+
+EV-olution/
+│-- src/
+│   │-- assets/        # images & videos
+│   │-- Components/    # React components (Navbar, Hero, Background)
+│   │-- App.jsx        # main app logic
+│   │-- main.jsx       # entry point
+│-- public/
+│-- package.json
+│-- README.md
+git clone https://github.com/YourUsername/EV-olution.git
+cd EV-olution
